@@ -53,30 +53,6 @@ Building scalable, real-world applications with clean architecture
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
 
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=princekdev&theme=tokyo-night" 
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=princekdev&theme=onedark&margin-w=10" 
-  />
-</p>
-
---- -->
-<!-- REAL-TIME + CLEAN STATS (FIXED) -->
-
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
