@@ -45,7 +45,7 @@ const princeKumar = {
 - 🌱 Sharpening my skills in **C++ & Data Structures**
 - ⚡ Passionate about **Backend, REST APIs & System Design**
 - 🤝 Open to **collaboration** on open-source & web dev projects
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **princekumar2005itaha@gmail.com**
 
 ---
 
