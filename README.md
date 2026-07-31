@@ -1,150 +1,141 @@
+<!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,24,30&text=Prince%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Backend%20Developer&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:4ca1af&height=220&section=header&text=Hi%20There,%20I'm%20Prince%20Kumar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
+</p>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Web+Developer;Building+Scalable+Web+Applications;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Backend+%26+API+Design+Enthusiast;Clean+Code+%7C+System+Design"
+    alt="Typing SVG"
+  />
+</p>
+
+<!-- ===================== PROFILE VIEWS & SOCIAL BADGES ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princekdev&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/princekdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:princekumar2005itaha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Backend+%26+REST+API+Developer;300%2B+DSA+Problems+Solved"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/princekdev"><img src="https://komarev.com/ghpvc/?username=princekdev&label=Profile%20Views&color=0e75b6&style=flat"/></a>
-<a href="https://github.com/princekdev?tab=followers"><img src="https://img.shields.io/github/followers/princekdev?label=Followers&style=flat&color=blue"/></a>
-<img src="https://img.shields.io/badge/Open%20To-Internship%20%7C%20Full--Time-success"/>
+  🚀 Full Stack Web Developer (MERN) &nbsp;|&nbsp; 🧠 DSA & Problem Solving &nbsp;|&nbsp; ⚙️ Backend & System Design
 </p>
 
 ---
 
-## About Me
-
-I am a Computer Engineering undergraduate specializing in **Full Stack MERN Development** and **Backend Engineering**. I focus on building scalable, secure, and maintainable web applications, with a strong foundation in Data Structures & Algorithms (300+ problems solved).
-
-Currently exploring System Design and Cloud Computing, with a goal of contributing to production-grade software as a backend/full-stack engineer.
+## 👨‍💻 About Me
 
 ```javascript
 const princeKumar = {
-    education: "B.Tech, Computer Engineering",
-    role: "Full Stack MERN Developer",
-    focus: "Backend Development",
-    languages: ["C++", "JavaScript", "Python", "Java"],
-    frontend: ["React", "Redux Toolkit", "Tailwind CSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "REST APIs", "JWT Authentication"],
-    databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "Postman", "VS Code", "Linux", "Vercel", "Render"],
-    currentlyLearning: ["System Design", "Cloud Computing", "Advanced Backend Architecture"]
+  role: "Full Stack Web Developer",
+  stack: "MERN (MongoDB, Express, React, Node.js)",
+  currentlyLearning: ["Data Structures & Algorithms", "System Design"],
+  interests: ["Backend APIs", "Scalable Architecture", "Clean Code"],
+  funFact: "I debug faster than I sleep 😅"
 };
 ```
 
----
-
-## Tech Stack
-
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript"/></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap"/></p>
-
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express"/></p>
-
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></p>
-
-**Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel"/></p>
+- 🔭 Currently building **real-world, industry-grade full stack projects**
+- 🌱 Sharpening my skills in **C++ & Data Structures**
+- ⚡ Passionate about **Backend, REST APIs & System Design**
+- 🤝 Open to **collaboration** on open-source & web dev projects
+- 📫 Reach me at: **princekumar2005itaha@gmail.com**
 
 ---
 
-## GitHub Analytics
+## 🛠️ Tech Stack
 
+<p align="center"><b>Languages</b></p>
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=princekdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekdev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" />
 </p>
 
+<p align="center"><b>Frontend</b></p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princekdev&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,redux" />
 </p>
 
+<p align="center"><b>Backend & Databases</b></p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=princekdev&theme=tokyo-night&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,prisma" />
 </p>
 
+<p align="center"><b>Tools & Platforms</b></p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=princekdev&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,vercel,figma" />
 </p>
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### HomelyHub
-Full-stack MERN property booking platform.
-
-- JWT-based authentication
-- Property listing & search
-- Booking management system
-- Image upload support
-- Responsive UI, REST API backend
-
-<a href="https://github.com/princekdev/HomelyHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=princekdev&repo=HomelyHub&theme=tokyonight&hide_border=true"/>
-</a>
-
-</td>
-<td width="50%">
-
-### SCRMS — Smart Complaint & Resource Management System
-Full-stack platform for tracking complaints and managing resources.
-
-- Role-based authentication
-- Complaint tracking & status updates
-- Admin dashboard with notifications
-- Resource management module
-- RESTful backend APIs
-
-<a href="https://github.com/princekdev/SCRMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=princekdev&repo=SCRMS&theme=tokyonight&hide_border=true"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Technical Expertise
-
-| Area | Technologies |
-|---|---|
-| Frontend | React, HTML, CSS, Tailwind CSS, Bootstrap |
-| Backend | Node.js, Express.js |
-| Database | MongoDB, MySQL |
-| Programming | C++, JavaScript, Python |
-| Authentication | JWT |
-| API Development | REST APIs |
-| Version Control | Git, GitHub |
-| Deployment | Vercel, Render |
-| Tools | VS Code, Postman |
-
----
-
-
-## Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://linkedin.com/in/princekdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:princekumar2005itaha@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/princekdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="YOUR_LEETCODE_LINK"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="YOUR_GFG_LINK"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=princekdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princekdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princekdev&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=princekdev&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/princekdev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=princekdev&repo=your-repo-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/princekdev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=princekdev&repo=your-repo-2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+> 💡 *Tip: Replace `your-repo-1` / `your-repo-2` with your actual repository names to pin them here.*
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/princekdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/princekdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:princekumar2005itaha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/princek_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ca1af,50:2c5364,100:0f2027&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  ✨ <i>Thanks for visiting my profile — Keep learning, keep building!</i> ✨
 </p>
