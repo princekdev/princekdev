@@ -133,52 +133,6 @@ Full-stack platform for tracking complaints and managing resources.
 
 ---
 
-## Development Workflow
-
-```
-Requirement Analysis → System Design → Frontend Development
-      → Backend API Development → Database Integration
-      → Testing → Deployment
-```
-
----
-
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| AI Fundamentals | IBM SkillsBuild |
-| Foundations of Prompt Engineering | AWS |
-| Introduction to Cybersecurity | Cisco |
-| Data Science & Analytics | HP LIFE |
-| Technology Job Simulation | Deloitte (Forage) |
-| MERN Stack Internship | AICTE |
-| SQL Explorer | Oracle |
-
----
-
-## Achievements
-
-**Competitive Programming**
-- Solved 300+ Data Structures & Algorithms problems
-- Strong command of arrays, linked lists, trees, graphs, dynamic programming, and recursion
-- Regular practice on LeetCode
-
-**Development**
-- Built and deployed multiple full-stack MERN applications
-- Designed and implemented secure REST APIs with JWT-based authentication
-- Experience with database design and responsive UI development
-
-**Open Source**
-- Active GitHub contributor with a clean, organized project structure
-
----
-
-## Career Objective
-
-Seeking a Software Engineering / Full Stack Developer internship or entry-level role where I can apply my skills in backend and full-stack development, contribute to impactful products, and continue growing under experienced engineers.
-
----
 
 ## Connect With Me
 
