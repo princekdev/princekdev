@@ -109,7 +109,7 @@ const princeKumar = {
   </a>
 </p>
 
-> 💡 *Tip: Replace `your-repo-1` / `your-repo-2` with your actual repository names to pin them here.*
+> 💡 *Tip: Replace `your-repo-1` / `your-repo-2`  with your actual repository names to pin them here.*
 
 ---
 
