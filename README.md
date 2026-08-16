@@ -11,7 +11,7 @@
   />
 </p>
 
-<!-- ===================== PROFILE VIEWS & SOCIAL BADGES ===================== -->
+<!-- ================== PROFILE VIEWS & SOCIAL BADGES ================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=princekdev&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
   <a href="https://linkedin.com/in/princekdev">
