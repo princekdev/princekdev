@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:4ca1af&height=220&section=header&text=Hi%20There,%20I'm%20Prince%20Kumar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== TYPING ANIMATION ===================== >
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Web+Developer;Building+Scalable+Web+Applications;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Backend+%26+API+Design+Enthusiast;Clean+Code+%7C+System+Design"
